@@ -37,7 +37,7 @@ map(Nom_Liste_Equip, Liste_Equip)
 
 
 
-# Fonction permettant d'obtenir les DUREES et DISTANCE par équipement
+# Fonction permettant d'obtenir les DUREES ou les DISTANCE par équipement
 
 # Création de la fonction
 Calcul_Duree <- function(REG, CATEG, EQUIP, INDICATEUR){
