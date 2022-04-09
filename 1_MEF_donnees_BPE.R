@@ -1,4 +1,4 @@
-
+# Correction de quelques fautes d'orthographe
 # ------------------------------------------#
 #   METRIC - Accessibilité aux équipements  #  
 #                                           #
